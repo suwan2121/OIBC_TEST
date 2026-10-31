@@ -1,3 +1,11 @@
+# 최신 상태 — 2026-10-31
+
+최종 개선 후보를 사용자 지시로 채택하고 공식 기간용 파일을 생성했습니다. 상세 검증 상태와 결과는 [최종 보고서](outputs/suwan_project_final/RESULTS.md), 선택 결정은 [ADOPTION.json](outputs/suwan_project_final/ADOPTION.json)에 있습니다. 추가 모델 탐색은 종료했습니다.
+
+---
+
+## 이전 상태 기록
+
 # V1 진행 상태 — 2026-10-29
 
 사용자 요청으로 첫 비교 실험을 중단한 시점의 코드다.
